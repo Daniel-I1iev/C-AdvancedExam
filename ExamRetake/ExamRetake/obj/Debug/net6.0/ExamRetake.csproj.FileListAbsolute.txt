@@ -1,0 +1,14 @@
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\bin\Debug\net6.0\ExamRetake.exe
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\bin\Debug\net6.0\ExamRetake.deps.json
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\bin\Debug\net6.0\ExamRetake.runtimeconfig.json
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\bin\Debug\net6.0\ExamRetake.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\bin\Debug\net6.0\ExamRetake.pdb
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.AssemblyInfoInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.AssemblyInfo.cs
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.csproj.CoreCompileInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\refint\ExamRetake.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.pdb
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ExamRetake.genruntimeconfig.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\ExamRetake\obj\Debug\net6.0\ref\ExamRetake.dll

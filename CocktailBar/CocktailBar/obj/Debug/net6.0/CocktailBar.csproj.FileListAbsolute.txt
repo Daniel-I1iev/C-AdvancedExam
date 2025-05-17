@@ -1,0 +1,14 @@
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.exe
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.deps.json
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.runtimeconfig.json
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.dll
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\bin\Debug\net6.0\CocktailBar.pdb
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfoInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.AssemblyInfo.cs
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.csproj.CoreCompileInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.dll
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\refint\CocktailBar.dll
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.pdb
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\CocktailBar.genruntimeconfig.cache
+D:\C#AdvancedMOdule\ExamRetake\CocktailBar\CocktailBar\obj\Debug\net6.0\ref\CocktailBar.dll

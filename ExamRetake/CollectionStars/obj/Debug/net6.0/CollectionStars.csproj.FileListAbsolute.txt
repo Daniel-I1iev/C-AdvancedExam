@@ -1,0 +1,14 @@
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\bin\Debug\net6.0\CollectionStars.exe
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\bin\Debug\net6.0\CollectionStars.deps.json
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\bin\Debug\net6.0\CollectionStars.runtimeconfig.json
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\bin\Debug\net6.0\CollectionStars.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\bin\Debug\net6.0\CollectionStars.pdb
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.AssemblyInfoInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.AssemblyInfo.cs
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.csproj.CoreCompileInputs.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\refint\CollectionStars.dll
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.pdb
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\CollectionStars.genruntimeconfig.cache
+D:\C#AdvancedMOdule\ExamRetake\ExamRetake\CollectionStars\obj\Debug\net6.0\ref\CollectionStars.dll
