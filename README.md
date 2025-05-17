@@ -115,25 +115,3 @@ This repository contains solutions for the following exercises:
 * **Important:** Ensure that you **exclude** the `bin` and `obj` folders from your zipped submission.
 
 **Note:** Please adhere to the specific naming conventions and project structure outlined in the original problem descriptions for each exercise.
-
----
-
-## 🚀 Getting Started
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
-    ```
-2.  **Navigate:** Go to the directory of the specific exercise you wish to work on.
-3.  **Project Setup:** Open the provided `.sln` file (if available) or create a new C# project, ensuring the project structure matches the problem description.
-4.  **Implement Solutions:** Write your C# code within the appropriate files.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to explore the solutions and contribute if you have any suggestions or alternative approaches! Happy coding! 😊
