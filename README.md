@@ -1,9 +1,5 @@
 # 🐝 C# Exam Exercises 🚀
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/issues)
-
 This repository provides C# solutions for a set of programming exercises designed to evaluate your understanding of fundamental C# concepts, including **class design**, **data structures**, and **algorithm implementation**.
 
 ---
